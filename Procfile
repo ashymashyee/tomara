@@ -1,1 +1,1 @@
-Worker: php mamad.php
+Worker: php index.php
