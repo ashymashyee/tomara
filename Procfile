@@ -1,1 +1,1 @@
-Worker: php هایپرساز.php
+Worker: php mamad.php
